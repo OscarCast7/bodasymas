@@ -1,0 +1,8 @@
+@import '../../node_modules/normalize.css/normalize.css';
+@import './header.css';
+@import './sections.css';
+@import './main.css';
+@import './servicios.css';
+@import './descripcion.css';
+@import './fonts.css';
+@import './contacto.css';

@@ -1,0 +1,24 @@
+header {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 5rem 0 2rem; /* Ajusta el relleno según tus necesidades */
+    width: 100%;
+    margin-bottom: 10px;
+    background: linear-gradient(var(--secondary), var(--primary-dark));
+}
+  
+h1 {
+    display: inline-block; /* Permite centrar el texto horizontalmente */
+    font-size: 5rem;
+    text-align: center;
+}
+  
+.circle {
+    float: right; /* Coloca la imagen a la derecha */
+    margin-left: 20px; /* Agrega margen a la izquierda para separar la imagen del texto */
+    border-radius: 30%; /* Da forma de círculo a la imagen */
+    width: 6rem;
+    padding-right: 6rem;
+}
+  
